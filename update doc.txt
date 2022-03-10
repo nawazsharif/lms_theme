@@ -1,0 +1,27 @@
+------------ VERSION - 3.2: Release on May 2021 ------------
+[+] Bootstarp v5 Stable (Update)
+[+] Bug Fix
+
+------------ VERSION - 3.1: Release on Mar-2021 ------------
+[+] Fronted View RTL (Only in Bs5 Package)
+
+------------ VERSION - 3: Release on Jan-2021 ------------
+[+] Bootstarp v5.0.0-beta1 (New Package) (Bs5 and Bs4 Separate Package)
+
+------------ VERSION - 2.2 on December-2020 ------------
+[+] New Demos Added
+[+] 5 New home page in Fronted HTML 
+[+] CSS updates
+
+------------ VERSION - 2.0 on November-2020 ------------
+[+] New Demos Added
+[+] CSS updates
+
+------------ VERSION - 1.2 on November-2020 ------------
+[+] CSS updates
+
+------------ VERSION - 1.1 on November-2020 ------------
+[+] CSS updates
+
+------------ VERSION - 1.0 on November-2020 ------------
+[+] Initial Release
